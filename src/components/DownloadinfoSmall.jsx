@@ -1,5 +1,5 @@
 import Appstorelogo from "../assets/images/appstore.png";
-import Playstorelogo from "../assets/images/playstore.png";
+
 const DownloadInfoSmall = () => {
   return (
     <div className="download-link-small">
